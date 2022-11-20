@@ -1,0 +1,7 @@
+fopen("arq.txt","r");
+while(!feof(arq))
+{
+    fscanf(arq,"%s",&n);
+}
+
+fprintf();
